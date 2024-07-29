@@ -12,7 +12,10 @@
 - **[FLASK](FLASK)**: Contains the Flask application code for handling API requests.
 
 > ## App View
-> ![Image 1](interface-1.jpg) ![Image 2](interface-2.jpg)  ![Image 3](interface-3.jpg)
+> <img src="interface-1.jpg" width="500px" height="800px" object-fit="contain">
+ <img src="interface-2.jpg" width="500px" height="800px" object-fit="contain">
+  <img src="interface-3.jpg" width="500px" height="800px" object-fit="contain">
+
 
 
 
