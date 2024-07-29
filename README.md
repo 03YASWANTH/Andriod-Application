@@ -6,7 +6,7 @@
 >
 > ### Directory Structure
 
-- **[DUNE-APP](path/to/DUNE-APP)*: Contains the main application code.
+- **[DUNE-APP](path/to/DUNE-APP)**: Contains the main application code.
 - **[DUNE-JUSTUI](path/to/DUNE-JUSTUI)**: Includes the code for the user interface.
 - **[DUNE-MODEL](path/to/DUNE-MODEL)**: Contains the machine learning model code.
 - **[FLASK](path/to/FLASK)**: Contains the Flask application code for handling API requests.
