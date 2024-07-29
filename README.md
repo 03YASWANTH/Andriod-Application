@@ -6,7 +6,7 @@
 >
 > ### Directory Structure
 
-- **[DUNE-APP](DUNE-APP)**: Contains the main application code.
+- **[DUNE-APP](DUNE-APP)**: The APK File can be downloaded.
 - **[DUNE-JUSTUI](DUNE-JUSTUI)**: Includes the code for the user interface.
 - **[DUNE-MODEL](DUNE-MODEL)**: Contains the machine learning model code.
 - **[FLASK](FLASK)**: Contains the Flask application code for handling API requests.
