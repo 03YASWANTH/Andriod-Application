@@ -12,11 +12,8 @@
 - **[FLASK](path/to/FLASK)**: Contains the Flask application code for handling API requests.
 
 > ## App View
-> <p align="center">
-    <img src="[interface-1.jpg](https://github.com/03YASWANTH/Andriod-Application/blob/main/interface-1.jpg?raw=true)" alt="Image 1" style="display: inline-block; width: 30%; margin: 5px;">
-    <img src="interface-2.jpg" alt="Image 2" style="display: inline-block; width: 30%; margin: 5px;">
-    <img src="interface-3.jpg" alt="Image 3" style="display: inline-block; width: 30%; margin: 5px;">
-</p>
+> ![Image 1](interface-1.jpg) ![Image 2](interface-2.jpg)  ![Image 3](interface-3.jpg)
+
 
 
 
